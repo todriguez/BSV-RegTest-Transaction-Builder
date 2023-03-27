@@ -5,6 +5,9 @@ This repository contains a bounty proposal for the development of a Custom Bitco
 
 ## Bounty Details
 
+### Eligibility
+The applicant must be a current student of the 2023 NITDA Blockchain Innovation Program. 
+
 ### Description
 We are seeking a skilled developer or team to create the Custom BitcoinSV Transaction Tool using the provided front-end HTML code and connecting it to a BitcoinSV regtest node for the backend. The completed tool should allow users to perform the following actions:
 
@@ -16,8 +19,10 @@ We are seeking a skilled developer or team to create the Custom BitcoinSV Transa
 - Sign that transaction preimage to create the signed raw transaction data.
 - Broadcast the transaction to the RegTest back end.  
 
+The tool will be hosted on the BitcoinSV Academy website for use by the BSV community.
+
 ### Requirements
-- Use the provided front-end HTML code
+- Use the provided front-end HTML code as a template
 - Implement the backend using a BitcoinSV regtest node
 - Follow the Open BSV License version 4 (included below)
 - Thoroughly test the application for functionality and usability
@@ -28,7 +33,6 @@ Submit your completed project as a pull request to this repository. Please inclu
 
 ### Deadline
 The deadline for submissions is the end of phase 3 of the NITDA Blockchain Innovation Program. 
-
 
 ### Evaluation Criteria
 Submissions will be evaluated based on the following criteria:
@@ -53,8 +57,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-### README
-This README should provide an overview of the bounty proposal, requirements, submission guidelines, evaluation criteria, and reward details. Please update the README as needed to reflect any changes or updates to the project.
+
 
 
 
