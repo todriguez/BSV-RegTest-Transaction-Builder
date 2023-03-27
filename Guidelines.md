@@ -1,3 +1,5 @@
+# Guidlines
+
 1. Please use the provided HTML code for the front end. Students are free to modify the code or its CSS, however the winning submission should have all the functionality of the html form intact. 
 
 2. For implementing the various SIGHASH schemes, please refer to the SIGHASH.md file to see which data fields are included in the transaction preimage. 
