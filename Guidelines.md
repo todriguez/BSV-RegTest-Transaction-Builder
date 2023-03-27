@@ -1,4 +1,4 @@
-# Guidlines
+# Guidelines
 
 1. Please use the provided HTML code for the front end. Students are free to modify the code or its CSS, however the winning submission should have all the functionality of the html form intact. 
 
@@ -10,5 +10,9 @@
  - https://github.com/jadwahab/regtest
 
 4. The finished product should be deployed to a URL which allows a user access to the tool. This will allow for easy testing of the tool by those judging the applicants. Ideally the entire tool should be packaged as a Docker container to be easily re-deployed on the BitcoinSV Academy website. 
+
+5. Some cool additional features that would be nice to see:
+ - Colour coding of the strings from each of the form fields in the concatenated serialised raw transaction data. 
+ - Colour coding appending of Signature and SIGHASH flags. 
 
 
