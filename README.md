@@ -8,10 +8,13 @@ This repository contains a bounty proposal for the development of a Custom Bitco
 ### Description
 We are seeking a skilled developer or team to create the Custom BitcoinSV Transaction Tool using the provided front-end HTML code and connecting it to a BitcoinSV regtest node for the backend. The completed tool should allow users to perform the following actions:
 
-### Generate key pairs
+- Generate key pairs
 - Mine blocks
 - Display Unspent Transaction Outputs (UTXOs)
-- Create, sign, and broadcast transactions
+- Create the unsigned raw transaction data 
+- Create the transaction preimage based off the specified SIGHASH flag.
+- Sign that transaction preimage to create the signed raw transaction data.
+- Broadcast the transaction to the RegTest back end.  
 
 ### Requirements
 - Use the provided front-end HTML code
