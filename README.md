@@ -42,9 +42,7 @@ Submissions will be evaluated based on the following criteria:
 The developer or team with the winning submission will receive a reward of $500USD in BitcoinSV. The reward will be transferred to the winner's BitcoinSV wallet within 7 days of the announcement of the winning submission.
 
 ### Open BSV License version 4
-Please find the Open BSV License version 4 in the initial question description.
 
-Open BSV License version 4
 Copyright (c) 2021 Bitcoin Association for BSV (“Bitcoin Association”)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
