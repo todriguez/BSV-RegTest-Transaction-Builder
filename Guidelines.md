@@ -7,6 +7,6 @@
  - https://github.com/jadwahab/bsv-regtest
  - https://github.com/jadwahab/regtest
 
-4. The finished product should exist as a URL which allows a user access to the tool. Ideally the entire tool should be packaged as a Docker container to be easily re-deployed on the BitcoinSV Academy website. 
+4. The finished product should be deployed to a URL which allows a user access to the tool. This will allow for easy testing of the tool by those judging the applicants. Ideally the entire tool should be packaged as a Docker container to be easily re-deployed on the BitcoinSV Academy website. 
 
 
