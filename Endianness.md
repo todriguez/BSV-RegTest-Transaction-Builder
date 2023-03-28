@@ -1,3 +1,5 @@
+# Endianness
+
 In general, Bitcoin data structures such as transaction IDs, block hashes, and some integers are represented in little-endian byte order. However, some values such as script lengths are represented in big-endian byte order.
 
 Here is a breakdown of the fields in the HTML form and their endianness:
